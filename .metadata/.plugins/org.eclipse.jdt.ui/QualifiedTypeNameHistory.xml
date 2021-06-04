@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="jdk.internal.misc.FileSystemOption"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java_basics.MyUtils"/>
+    <fullyQualifiedTypeName name="someotherpackage.ExampleClass"/>
+    <fullyQualifiedTypeName name="Human"/>
+    <fullyQualifiedTypeName name="Animal"/>
+    <fullyQualifiedTypeName name="Bird"/>
+    <fullyQualifiedTypeName name="inheritance.Animal"/>
+    <fullyQualifiedTypeName name="com.sun.tools.sjavac.comp.dependencies.PublicApiCollector"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="interfaces.Chicken"/>
+    <fullyQualifiedTypeName name="interfaces.Biird"/>
+    <fullyQualifiedTypeName name="interfaces.Eatable"/>
+    <fullyQualifiedTypeName name="interfaces.Flyable"/>
+    <fullyQualifiedTypeName name="interfaces.Sparrow"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.xpath.internal.functions.FuncSubstring"/>
+    <fullyQualifiedTypeName name="org.graalvm.compiler.replacements.amd64.AMD64ArrayIndexOf"/>
+    <fullyQualifiedTypeName name="car_dealership.Customers"/>
+    <fullyQualifiedTypeName name="car_dealership.Customer"/>
+    <fullyQualifiedTypeName name="car_dealership.Employee"/>
+    <fullyQualifiedTypeName name="car_dealership.Vehicle"/>
+    <fullyQualifiedTypeName name="jdk.vm.ci.meta.JavaKind.FormatWithToString"/>
+    <fullyQualifiedTypeName name="Abstract_data_type.Counter"/>
+    <fullyQualifiedTypeName name="ds.stack.Stack"/>
+    <fullyQualifiedTypeName name="com.sun.source.tree.WhileLoopTree"/>
+    <fullyQualifiedTypeName name="ds.stack.reverseString.Stack1"/>
+    <fullyQualifiedTypeName name="ds.queue.Queue"/>
+    <fullyQualifiedTypeName name="com.sun.tools.jdeprscan.scan.Scan"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="MyFileUtils"/>
+    <fullyQualifiedTypeName name="javax.management.remote.SubjectDelegationPermission"/>
+    <fullyQualifiedTypeName name="MyFileUtils.FooRuntimeException"/>
+    <fullyQualifiedTypeName name="com.yaman.exceptions.FooRuntimeException"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+</qualifiedTypeNameHistroy>

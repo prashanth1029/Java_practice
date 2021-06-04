@@ -1,0 +1,16 @@
+package Big_O_notations;
+
+public class Constant {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int []a = new int[] {1,2,3,4,5};
+		System.out.println(getElementFrom(a, 2));
+	}
+	
+	public static int getElementFrom(int elements[], int index) {
+		return elements[index];
+	}
+
+
+}

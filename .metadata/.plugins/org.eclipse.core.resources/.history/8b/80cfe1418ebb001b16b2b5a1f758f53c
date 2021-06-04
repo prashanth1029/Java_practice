@@ -1,0 +1,20 @@
+public class Zoo {
+
+	public static void main(String[] args) {
+		
+		Animal ani1 = new Animal("palmorian dog", "black", 12, 18);
+        Animal ani2 = new Animal("lion", "orrange", 15, 20);
+        
+        ani1.speak();
+        ani2.speak();
+        
+        Bird brd1 = new Bird("parrot", "green", 12, 2);
+        brd1.speak();
+        brd1.fly();
+        
+        Fish fsh1 = new Fish("parake meen", "light black", 10, 4);
+        fsh1.speak();
+        fsh1.swim();
+	}
+
+}

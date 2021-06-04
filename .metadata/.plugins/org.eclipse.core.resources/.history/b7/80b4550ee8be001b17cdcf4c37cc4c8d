@@ -1,0 +1,37 @@
+package practice.strings;
+
+public class StringPractice {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		String a = "hello    @$#@&(&%^%";
+		System.out.println(a.length());
+		
+		String str = "ABCDEFG";
+		String extractedString = str.substring(1);//reference to index value 1 from there and onwords it will extract the string
+		System.out.println(extractedString);
+		System.out.println(str.substring(1, 4));// extracts from start index considers start ind character and upto lastindex-1
+		System.out.println(str.substring(4, 7));
+//		System.out.println(str.substring(4, 8));
+		System.out.println(str.substring(0, 7));
+		
+		String b = "prashi";
+		String c = "developer";
+		
+		if (b == "prashi") {
+//			this is the trap don't do this
+//			it will work for intiger, characters but not strings bcz Strings are objects that are created in heap
+		}
+		
+		if (!b.equals("prashi")) {//not b dot equals
+//			use this
+		}
+		
+		if (c.equals("developer")) {
+			System.out.println("printed developer");
+		}
+		
+	}
+
+}

@@ -1,0 +1,5 @@
+package Abstract_data_type;
+
+public class Counter {
+
+}

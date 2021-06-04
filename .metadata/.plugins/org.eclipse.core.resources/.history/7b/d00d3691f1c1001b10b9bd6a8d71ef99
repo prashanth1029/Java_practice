@@ -1,0 +1,19 @@
+package ds.stack.reverseString;
+
+public class App1 {
+
+	public static void main(String[] args) {
+		
+		Stack1 sck = new Stack1(5);
+		sck.push('h');
+		sck.push('e');
+		sck.push('l');
+		sck.push('l');
+		sck.push('o');
+		
+		while (!sck.isEmpty()) {
+			char c = sck.pop();
+			System.out.println(c);
+		}
+	}
+}

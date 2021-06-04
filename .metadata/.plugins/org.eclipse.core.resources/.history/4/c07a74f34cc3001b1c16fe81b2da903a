@@ -1,0 +1,27 @@
+package ds.queue;
+
+public class App {
+
+	public static void main(String[] args) {
+
+		Queue que = new Queue(5);
+		que.insert(10);
+		que.insert(20);
+		que.insert(30);
+		que.insert(40);
+		que.insert(50);
+		que.insert(60);
+		
+		que.view();
+		
+		System.out.println("item in front "+que.peakFront());
+		que.remove();
+		que.remove();
+		que.remove();
+		que.remove();
+		que.remove();
+		que.remove();
+		
+	}
+
+}

@@ -1,0 +1,9 @@
+package ds.stack.reverseString;
+
+public class App1 {
+
+	Stack1 sck1 = new Stack1(4);
+
+	while(sck1.is)
+
+}

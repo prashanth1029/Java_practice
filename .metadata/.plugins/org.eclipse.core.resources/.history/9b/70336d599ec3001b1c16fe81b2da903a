@@ -1,0 +1,10 @@
+
+public class MyFileUtils {
+
+	public int substract10FromLargerNumber(int num) throws Exception {
+		if(num < 10) {
+			throw new Exception("number passed was smaller than 10");
+		}
+		return num -10;
+	}
+}

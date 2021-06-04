@@ -1,0 +1,23 @@
+package car_dealership;
+
+public class Employee {
+
+	String empName;
+	
+	public String getEmpName() {
+		return empName;
+	}
+
+	public void setEmpName(String empName) {
+		this.empName = empName;
+	}
+
+	public handleCustomer(Customer cst, boolean finance, Vehicle vehicle) {
+		if(finance)
+			runCreditHistory(Customer cst, double loanAmount);
+		else if(vehicle.getPrice() <= cst.getCashOnHand())
+			processTransaction(Customer cst, Vehicle vehicle);
+		else
+			System.out.println("bring more money to purchase your vehicle");
+	}
+}

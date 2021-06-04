@@ -1,0 +1,29 @@
+package practice.loops;
+
+public class ForLoopPractice {
+
+	public static void main(String[] args) {
+
+		for (int i = 0; i < 100 ; i++) {
+			System.out.println("i: " + i);
+		}
+		
+		String str = "erghuhrtuihurthiuhirutyrtmngbdm,fnm,fgm,nfghn";
+		for (int i = 0; i < str.length() ; i++) {
+			System.out.println(str.charAt(i));
+		}
+		
+		System.out.println();
+		
+		for (int i = 0; i <= str.length()-1 ; i++) {
+			System.out.println(str.charAt(i));
+		}
+		
+		System.out.println("printing reverse");
+		
+		for (int i = str.length(); i > 0 ; i--) {
+			System.out.println(str.charAt(i));
+		}
+	}
+
+}

@@ -1,0 +1,8 @@
+package car_dealership;
+
+public class Customer {
+
+	public void purchaseCar(Vehical vehical, Employee emp, boolean emi) {
+		
+	}
+}

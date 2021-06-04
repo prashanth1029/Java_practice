@@ -1,0 +1,18 @@
+package practice.loops;
+
+public class NestedForLoopsandDebugger {
+
+	public static void main(String[] args) {
+
+		int counter = 0;
+		for (int i = 0; i <= 100; i++) {
+			int temp = counter + 1;
+			counter = temp;
+			
+			for (int j = 0; j < 10; j++) {
+				System.out.println("the value of i was "+ i + "----" + j);
+			}
+		}
+	}
+
+}

@@ -1,0 +1,13 @@
+package practice.loops;
+
+public class LoopsPractice {
+
+	public static void main(String[] args) {
+
+		while(true) {
+			System.out.println("parshanth");
+		}
+
+	}
+
+}

@@ -1,0 +1,16 @@
+package car_dealership;
+
+public class Vehicle {
+
+	 String model;
+	 String color;
+	 double price;
+
+	public Vehicle(String model, String color, double price) {
+		super();
+		this.model = model;
+		this.color = color;
+		this.price = price;
+	}
+
+}

@@ -1,0 +1,5 @@
+package com.yaman.exceptions;
+
+public class FooRuntimeException {
+
+}

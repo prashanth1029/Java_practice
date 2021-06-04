@@ -1,0 +1,24 @@
+package practice.loops;
+
+public class LoopsPractice {
+
+	public static void main(String[] args) {
+
+		/*
+		 * while(true) { System.out.println("parshanth"); }
+		 */
+		
+		int count = 0;
+		
+		/*
+		 * while(count <= 100) { System.out.println("bisaralli"); }
+		 */
+		
+		while(count <= 100) {
+			System.out.println("prashanth" + count);
+			count = count + 1;
+		}
+		
+	}
+
+}
