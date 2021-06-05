@@ -1,8 +1,0 @@
-package car_dealership;
-
-public class Customers {
-
-	public void purchaseCar(Vehical vehical, Employee emp, boolean emi) {
-		
-	}
-}
