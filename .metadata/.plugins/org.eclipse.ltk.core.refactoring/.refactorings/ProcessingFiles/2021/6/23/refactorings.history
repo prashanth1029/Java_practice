@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;ProcessingFiles/myFile.txt&apos; to &apos;myFileChanged.txt&apos;" description="Rename resource &apos;myFile.txt&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="myFile.txt" name="myFileChanged.txt" stamp="1622635708566" updateReferences="true"/>
-</session>
