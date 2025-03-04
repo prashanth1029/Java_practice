@@ -10,7 +10,7 @@ public class ControlFlow {
 		if (!hungry) {// read it as if not hungry
 			System.out.println("i am starving1");
 		} else {
-			System.out.println("i am full1");
+			System.out.println("i am full1"    );
 		}
 
 		int hungerRating = 5;
