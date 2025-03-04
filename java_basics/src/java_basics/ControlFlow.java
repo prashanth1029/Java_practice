@@ -3,7 +3,7 @@ package java_basics;
 public class ControlFlow {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub hi bhi
+		// TODO Auto-generated method stub
 
 		boolean hungry = false;
 
